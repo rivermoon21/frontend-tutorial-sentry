@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import * as Sentry from "@sentry/react";
+import * as Sentry from "@sentry/react";
 import "./App.css";
 import wrenchImg from "../assets/wrench.png";
 import nailsImg from "../assets/nails.png";
